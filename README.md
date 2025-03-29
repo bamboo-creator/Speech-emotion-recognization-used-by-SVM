@@ -1,0 +1,1 @@
+# Speech-emotion-recognization-used-by-SVM
