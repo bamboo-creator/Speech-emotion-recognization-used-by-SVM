@@ -30,7 +30,7 @@ Each dataset provides high-quality recordings from multiple speakers expressing 
 
 > ⚠️ **Note**: Due to file size limitations on GitHub, the full dataset is not included in this repository.
 
-📦 **Download the full dataset**: [Google Drive Link]([https://your-google-drive-link-here](https://drive.google.com/drive/folders/1XFC5Pk9o9wadCy9fHSXxS12lpujyBQb2?usp=drive_link))
+📦 **Download the full dataset**: [Google Drive Link](https://your-google-drive-link-here](https://drive.google.com/drive/folders/1XFC5Pk9o9wadCy9fHSXxS12lpujyBQb2?usp=drive_link)
 
 Alternatively, a small subset of the data for quick testing is included in the `data_sample/` folder (if available).
 
